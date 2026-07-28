@@ -498,7 +498,7 @@ function BirthdayPage() {
           transition={{ duration: 0.55 }}
         >
           <p className="eyebrow">After the candles</p>
-          <h2>The whole page is a little love letter now.</h2>
+          <h2>The whole page is a little love letter.</h2>
           <p>Not just pictures in boxes. Little chapters, little promises, little reminders that today is centered on you.</p>
         </motion.div>
         <div className="board-grid">
@@ -591,7 +591,7 @@ function BirthdayPage() {
       <footer className="massage-footer">
         <div className="footer-content">
           <p className="eyebrow">One more birthday surprise</p>
-          <h2>Be ready for your massage on Thursday at 12pm.</h2>
+          <h2>Be ready for your massage at 12pm.</h2>
           <p>Clear the afternoon, breathe slowly, and let today keep getting softer. You deserve the kind of rest that reaches your shoulders first.</p>
           <div className="footer-details">
             <span><Sparkle weight="fill" /> Calm mode only</span>
