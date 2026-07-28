@@ -1,1 +1,5 @@
 node_modules
+
+# Codex/local agent skills
+.agents/skills/
+skills-lock.json
