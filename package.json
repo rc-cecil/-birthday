@@ -1,0 +1,22 @@
+{
+  "name": "birthday-memories",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config vite.local.config.mjs",
+    "build": "vite build --config vite.local.config.mjs",
+    "preview": "vite preview --config vite.local.config.mjs",
+    "serve": "node serve.mjs"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "motion": "^12.23.9",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^7.1.7"
+  }
+}
